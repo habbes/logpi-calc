@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LogPi Calc</string>
+    <string name="action_about">Help</string>
+    <string name="help">Arithmetic operations work normally.\n\nFunctions are invoked using the syntax: func(input1, input2).\nFunctions without parameters can be called without the brackets.
+        \n\nTrigonometric functions use radians by default. Use \'torad\' function to convert degrees to radians.
+    </string>
+    <string name="credits">App by Manuscript</string>
+    <string name="contact">Report bugs to:\ncontact.manuscript@gmail.com</string>
+    <string name="open_bracket">(</string>
+    <string name="close_bracket">)</string>
+    <string name="comma">,</string>
+    <string name="power">^</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="times">*</string>
+    <string name="divide">/</string>
+    <string name="execute">=</string>
+    <string name="decimal">.</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="title_activity_about">Help</string>
+
+</resources>
